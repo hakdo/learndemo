@@ -10,6 +10,12 @@ var modules = {
         type: 'movie',
         clickID: 'stg-2',
         url: 'https://www.youtube.com/embed/F3tJUNHbwnA'
+    },
+    'stg-3': {
+        title: 'Hackerman Interlude',
+        type: 'movie',
+        clickID: 'stg-3',
+        url: 'https://www.youtube.com/embed/fQGbXmkSArs'
     }
 }
 var shownotes = false;
